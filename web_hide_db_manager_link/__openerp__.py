@@ -5,11 +5,11 @@
 
 {
     'name': 'Hide link to database manager in login screen',
-    'version': "9.0.1.0.0",
+    'version': "11.0",
     'category': 'Web',
     'license': 'AGPL-3',
-    'author': 'Alejandro Santana, Odoo Community Association (OCA)',
-    'website': 'http://anubia.es',
+    'author': 'Gabriel Sosa, Odoo Community Association (OCA)',
+    'website': 'http://gabriel.es',
     'summary': 'Hide link to database manager in login screen',
     'depends': ['web'],
     'data': ['views/webclient_templates.xml'],
